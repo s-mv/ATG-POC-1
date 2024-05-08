@@ -12,3 +12,5 @@ curl -X POST -H "Content-Type: application/json" -d '{
 3. You can now navigate to http://localhost:5000/companies/unverified to see unverified companies.
 4. You can now navigate to http://localhost:5000/companies to see all companies.
 5. Companies can be verified using 
+
+Video demonstration: [click here](https://drive.google.com/file/d/15UMlBdLmgwbg8i8jYvyq6tr_Vj7uDGxF/view?usp=sharing)
